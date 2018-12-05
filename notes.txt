@@ -1,0 +1,12 @@
+Section 2 Lecture 12:
+  You can't use any curly braces in an html element. Only in a place you usually use text.
+  enter bind, a vue directive
+
+A directive is basically an instruction you place in your code.
+
+v-bind tells vue js to bind something ot the data (used in places you can use {{ }} )
+ -pass dynamic data to html attributes 
+
+v-html tells Vue.js to actually render the html and not escape it
+
+
